@@ -1,4 +1,4 @@
-# EchoSight: Low-Latency Assistive Vision System
+# EchoSight: Wearable Computer Vision System for the Visually Impaired.
 
 A real-time, wearable object detection system engineered to assist individuals with visual impairments. This project leverages Computer Vision and Machine Learning to process video inputs and convert visual data into immediate, spatial audio feedback. 
 
